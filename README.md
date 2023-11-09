@@ -1,8 +1,8 @@
 ### Hello there 👋
 
-🏫 Student at IPCA
-🌱 Learning about software
-⚡ Excited about AI
+* 🏫 Student at IPCA
+* 🌱 Learning about software
+* ⚡ Excited about AI
 
 
 <!--
