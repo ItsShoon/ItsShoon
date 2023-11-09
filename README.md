@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello there 👋
+
+🏫 Student at IPCA
+🌱 Learning about software
+⚡ Excited about AI
+
 
 <!--
 **ItsShoon/ItsShoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
